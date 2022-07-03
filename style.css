@@ -1,0 +1,11 @@
+.portfolio{
+    background-color: aqua;
+    border: 10px solid goldenrod;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    background-color: goldenrod;
+}
